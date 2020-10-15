@@ -11,14 +11,14 @@
   - [Installation](#installation)
   - [Run](#run)
   - [Test Run](#testRun)
-  - [Contributing](#contribution)
-  - [Test](#test)
   - [Question](#question) 
 
 ## Description 
 The application will prompt the user for information about the team manager and then information about the team members. The user can input any number of team members, and they may be a mix of engineers and interns.
 
 ![Employee Summary 1](./Assets/generated_page.png)
+![Video_Create_html_file](./Assets/Video_1_create_Html.gif)
+
 
 ## Installation 
 `npm install`
@@ -40,7 +40,7 @@ There are 4 test files for class validity, known as Software Testing, because it
 
 ![Test Run](./Assets/sucess_test.png)
 
-##  Question <a name="question"></a>
+##  Question 
   For more questions about Team Profile Generator you can go to my Github page at the follow link: 
 
   - [GitHub Profile](https://github.com/adriana-carmo)
