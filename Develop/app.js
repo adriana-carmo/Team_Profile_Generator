@@ -125,12 +125,9 @@ const questions = [
                     const engineer = new Engineer(response.name, response.ID, response.email, response.github);
                     teamMembers.push(engineer);
                     break;
-                default:
-                    console.log("Employee");
-
             }
             
-            (response.newMembers) ? init() : buildTeam();
+           (response.newMembers) ? init() : buildTeam();
            
         })
     }
